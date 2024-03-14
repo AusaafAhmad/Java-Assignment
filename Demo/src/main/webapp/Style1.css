@@ -1,0 +1,79 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+     background-image: url('https://cdn.dribbble.com/userupload/3365227/file/original-707fcd6896c82ee12c4a52272aad8ee9.png?resize=1920x1080');
+    background-size: cover;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+
+.container button {
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.container button:hover {
+    background-color: #0056b3; 
+}
+
+.container button:active {
+    background-color: #004080; 
+}
+
+input[type="text"], input[type="password"], input[type="submit"] {
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+input[type="text"], input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+  outline: none;
+  border-radius: 5px;
+}
+input[type="submit"] {
+  cursor: pointer;
+  background-color: #007bff; 
+  color: #fff;
+  transition: background-color 0.3s;
+  width: 100%;
+}
+.del button{
+	background-color: #ff0000;
+}
+.del button:hover {
+  background-color: #9e0000; 
+}
+
+.del button:active {
+  background-color: #4f0101; 
+}
+input[type="submit"]:hover {
+  background-color: #0056b3; 
+}
+
+input[type="submit"]:active {
+  background-color: #004080; 
+}
