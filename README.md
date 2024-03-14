@@ -4,14 +4,14 @@
 ### Advanced Java Programming	
 ### IT404
 # Index
-[1.Registatration page](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#1registatration-page) \
-[2.Login page](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#2login-page)\
-[3.Profile page](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#3profile-page)\
-[4.Update City page](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#4update-city-page)\
-[5.Updated City Page](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#5updated-city-page)\
-[6.Delete Prompt](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#6delete-prompt)\
-[7.Delete Confrimed](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#7delete-confirmed)\
-[8.Login After Delete](https://github.com/AusaafAhmad/Java-Assignment/new/main?filename=README.md#8login-after-delete)
+[1.Registatration page](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#1registatration-page) \
+[2.Login page](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#2login-page)\
+[3.Profile page](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#3profile-page)\
+[4.Update City page](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#4update-city-page)\
+[5.Updated City Page](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#5updated-city-page)\
+[6.Delete Prompt](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#6delete-prompt)\
+[7.Delete Confrimed](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#7delete-confirmed)\
+[8.Login After Delete](https://github.com/AusaafAhmad/Java-Assignment?tab=readme-ov-file#8login-after-delete)
 
 ## 1.Registatration page
 ![Image](https://github.com/AusaafAhmad/Java-Assignment/blob/main/Screenshots/imag.png)
